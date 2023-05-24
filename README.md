@@ -1,7 +1,7 @@
 # ✔️ Project: Poppop
 
 <img src="./uploads/img/poppop_logo.png" height=100 width=100/>
-
+..
 <br><br>
 
 ## 🎤 Poppop 소개
