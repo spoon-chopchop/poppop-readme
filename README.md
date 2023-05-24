@@ -42,7 +42,6 @@
 
 <img src="./uploads/gif/signin.gif" height="500px"/>
 
-
 - App을 깔고 다운로드 후, 한 번도 로그인을 하지 않은 상태라면 국가번호와 번호를 입력하여 로그인
 - 해외 문자 인증 서비스를 통해 전세계 문자 인증 서비스 구현
 - 알림, 음성, 전화번호부 접근 등 권한 설정 페이지[선택], 프로필 네임 설정[필수], 프로필 사진[선택] 설정으로 구성
@@ -58,6 +57,7 @@
 <br>
 
 #### 채팅방 만들기
+
 <img src="./uploads/gif/invite.gif" height="500px"/>
 <img src="./uploads/gif/create_chat.gif" height="500px"/>
 
@@ -79,7 +79,8 @@
 <br>
 
 #### pet 키우기
-<img src="./uploads/img/poppop_pet.png" height="500px"/>
+
+<img src="./uploads/img/poppop_pet_2.png" height="500px"/>
 
 - 상대방이 첫 메세지를 보내면 UFO가 pet으로 바뀌고, pet은 채팅방마다 랜덤으로 생성됨
 - pet 성장 조건
